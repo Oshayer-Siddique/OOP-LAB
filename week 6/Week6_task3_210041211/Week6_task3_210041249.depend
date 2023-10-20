@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694774385 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task3_210041249\main.cpp
+	<iostream>
+	"FLOAT.h"
+
+1694774385 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task3_210041249\src\float.cpp
+	"FLOAT.h"
+
+1694774385 c:\users\asus\documents\sem3\oop lab\week 6\week6_task3_210041249\include\float.h
+	<iostream>
+	<string>
+	<vector>
+

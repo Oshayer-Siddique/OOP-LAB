@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1695114890 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task2_210041249\main.cpp
+	<iostream>
+	"Coordinate.h"
+
+1695114427 c:\users\asus\documents\sem3\oop lab\week 6\week6_task2_210041249\include\coordiante.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+
+1695114309 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task2_210041249\src\coordiante.cpp
+	"Coordiante.h"
+
+1695117268 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task2_210041249\src\coordinate.cpp
+	"Coordinate.h"
+
+1695115336 c:\users\asus\documents\sem3\oop lab\week 6\week6_task2_210041249\include\coordinate.h
+	<iostream>
+	<string>
+	<vector>
+	<cmath>
+

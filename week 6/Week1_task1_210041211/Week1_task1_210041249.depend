@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1694771917 source:c:\users\asus\documents\sem3\oop lab\week 6\week1_task1_210041249\main.cpp
+	<iostream>
+	"Matrix3D.h"
+
+1694771696 c:\users\asus\documents\sem3\oop lab\week 6\week1_task1_210041249\include\matrix3d.h
+	<iostream>
+	<string>
+	<vector>
+
+1694771762 source:c:\users\asus\documents\sem3\oop lab\week 6\week1_task1_210041249\src\matrix3d.cpp
+	"Matrix3D.h"
+
+1695368644 source:h:\academic\cse 3rd sem\cse 4302\week 6\week1_task1_210041249\main.cpp
+	<iostream>
+	"Matrix3D.h"
+
+1695368645 h:\academic\cse 3rd sem\cse 4302\week 6\week1_task1_210041249\include\matrix3d.h
+	<iostream>
+	<string>
+	<vector>
+
+1695368645 source:h:\academic\cse 3rd sem\cse 4302\week 6\week1_task1_210041249\src\matrix3d.cpp
+	"Matrix3D.h"
+

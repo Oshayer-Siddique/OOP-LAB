@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695118000 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task4_210041249\main.cpp
+	<iostream>
+	"Counter.h"
+
+1695117865 source:c:\users\asus\documents\sem3\oop lab\week 6\week6_task4_210041249\src\counter.cpp
+	"Counter.h"
+
+1695118238 c:\users\asus\documents\sem3\oop lab\week 6\week6_task4_210041249\include\counter.h
+	<iostream>
+	<string>
+	<vector>
+
